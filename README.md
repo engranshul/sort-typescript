@@ -1,11 +1,13 @@
-## what is this project
+## What is this project
+
 I have done this project as a part of online course.
-This project is a simply sorting project that is made with the help
+This project is a simple sorting project that is made with the help
 of typescript.This project was more focused on designing application.
 I started first with using interface but than finally used inheritance
+as the objects in application shared similar properties.
 
-To run this project execute : npm start.Refer index.ts as an starting
-point to understand code
+To run this project execute : npm start.
+Refer index.ts as an starting point to understand code
 
 ## Learnings from this project
 
